@@ -1,0 +1,12 @@
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\bin\Debug\netcoreapp2.0\IdGenerator.Infrastructure.deps.json
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\bin\Debug\netcoreapp2.0\IdGenerator.Infrastructure.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\bin\Debug\netcoreapp2.0\IdGenerator.Infrastructure.pdb
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\bin\Debug\netcoreapp2.0\IdGenerator.Core.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\bin\Debug\netcoreapp2.0\IdGenerator.Core.pdb
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\obj\Debug\netcoreapp2.0\IdGenerator.Infrastructure.csprojAssemblyReference.cache
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\obj\Debug\netcoreapp2.0\IdGenerator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\obj\Debug\netcoreapp2.0\IdGenerator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\obj\Debug\netcoreapp2.0\IdGenerator.Infrastructure.AssemblyInfo.cs
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\obj\Debug\netcoreapp2.0\IdGenerator.Infrastructure.csproj.CopyComplete
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\obj\Debug\netcoreapp2.0\IdGenerator.Infrastructure.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Infrastructure\obj\Debug\netcoreapp2.0\IdGenerator.Infrastructure.pdb

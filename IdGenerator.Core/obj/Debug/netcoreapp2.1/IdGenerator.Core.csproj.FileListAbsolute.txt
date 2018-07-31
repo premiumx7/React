@@ -1,0 +1,8 @@
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Core\bin\Debug\netcoreapp2.1\IdGenerator.Core.deps.json
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Core\bin\Debug\netcoreapp2.1\IdGenerator.Core.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Core\bin\Debug\netcoreapp2.1\IdGenerator.Core.pdb
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Core\obj\Debug\netcoreapp2.1\IdGenerator.Core.csproj.CoreCompileInputs.cache
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Core\obj\Debug\netcoreapp2.1\IdGenerator.Core.AssemblyInfoInputs.cache
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Core\obj\Debug\netcoreapp2.1\IdGenerator.Core.AssemblyInfo.cs
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Core\obj\Debug\netcoreapp2.1\IdGenerator.Core.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Core\obj\Debug\netcoreapp2.1\IdGenerator.Core.pdb

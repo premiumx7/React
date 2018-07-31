@@ -1,0 +1,16 @@
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\obj\Debug\netcoreapp2.1\IdGenerator.Api.csproj.CoreCompileInputs.cache
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\obj\Debug\netcoreapp2.1\IdGenerator.Api.AssemblyInfoInputs.cache
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\obj\Debug\netcoreapp2.1\IdGenerator.Api.AssemblyInfo.cs
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Api.deps.json
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Api.runtimeconfig.json
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Api.runtimeconfig.dev.json
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Api.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Api.pdb
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Core.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Infrastructure.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Infrastructure.pdb
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\bin\Debug\netcoreapp2.1\IdGenerator.Core.pdb
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\obj\Debug\netcoreapp2.1\IdGenerator.Api.csprojAssemblyReference.cache
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\obj\Debug\netcoreapp2.1\IdGenerator.Api.csproj.CopyComplete
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\obj\Debug\netcoreapp2.1\IdGenerator.Api.dll
+C:\Users\tomaszg\Downloads\dotNet-master\IdGenerator.Api\obj\Debug\netcoreapp2.1\IdGenerator.Api.pdb
